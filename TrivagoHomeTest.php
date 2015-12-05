@@ -13,7 +13,7 @@
  * - The search suggestions of the input field have to be used!
  * - The calendar of the search form has to be closed after the search was executed! You have to choose the second hotel in the result list!
  * - You have to chose the third price of the View all deals window!
- * - All the best 
+ * - All the best. Some more text here 
  ********************************************************************************************************/
 
 use IntegrationTest\Config\Config;
